@@ -2,7 +2,7 @@
 ### Technologies Used-
 - **JAVA**
 - **Java Reflection API**: For scanning classes
-### Technologies Used-
+### Description-
 A program or tool to generate setter-getter methods and constructor for the specified fields of a java file as per the requriememt.
 ### How to use:
 - **Usage:** java -classpath path_to_jar_file;. com.thinking.machines.utils.SetterGetterGenerator class_name constructor=true/false <br/>
